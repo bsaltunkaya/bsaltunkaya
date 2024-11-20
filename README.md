@@ -14,4 +14,4 @@
 
 - Though not my main area, I am educated on electronic engineering concepts, for example, finite state machines, circuits, PCB design, etc.
 - Therefore, I am also capable of combining both my computer and electronics education by using software like Quartus.
-- (Please 😅) Feel free to reach out to me if you have questions about any projects I am involved in or for job opportunities.
+- Feel free to reach out to me if you have questions about any projects I am involved in.
